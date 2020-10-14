@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fobulat%2FtrLemmer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fobulat%2FtrLemmer?ref=badge_shield)
+
 ==================
 Turkish Lemmatizer
 ==================
@@ -95,3 +97,7 @@ This package is a Python port of part of the Zemberek_ package by `Ahmet A. Akı
 
 .. _Zemberek: https://github.com/ahmetaa/zemberek-nlp
 .. _Ahmet A. Akın: https://github.com/ahmetaa/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fobulat%2FtrLemmer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fobulat%2FtrLemmer?ref=badge_large)
